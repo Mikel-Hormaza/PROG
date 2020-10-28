@@ -1,4 +1,4 @@
-package Erronka1;
+package Erronka1.1;
 
 import java.awt.BorderLayout;
 import java.awt.EventQueue;
